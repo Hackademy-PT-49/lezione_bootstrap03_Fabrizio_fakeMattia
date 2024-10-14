@@ -1,0 +1,18 @@
+.nav-custom{
+    min-height: 100px;
+}
+
+.link-orazio{
+    color: white;
+}
+
+header {
+    /* height: 50vh; */
+    background: linear-gradient(black, grey);
+    color: rgb(232, 232, 232);
+}
+
+.card-custom{
+    /* background-color: blueviolet; */
+    /* color: yellow; */
+}
